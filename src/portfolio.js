@@ -21,7 +21,7 @@ const seo = {
 const greeting = {
   title: "Yu Lin",
   logo_name: "Yu Lin",
-  nickname: "\uD83E\uDD80",
+  nickname: "Hi There Partner \uD83E\uDD80!",
   subTitle:
     "A data-driven professional specializing in data science and engineering, skilled at analyzing complex datasets and enhancing business processes.",
   resumeLink:
@@ -469,9 +469,9 @@ const certifications = {
 // Experience Page
 const experience = {
   title: "Experience",
-  subtitle: "Work, Internship and Volunteership",
+  subtitle: "Fulltime & Internship",
   description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+    "I have a diverse background in data engineering, machine learning, and mechanical systems. I built and led a powertrain data team, working on big data, scalable pipelines, and end-to-end machine learning development. I also developed data processing tools for traffic data, contributing to autonomous driving safety research with the NHTSA.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -479,25 +479,25 @@ const experience = {
       work: true,
       experiences: [
         {
-          title: "Machine Learning Engineer",
-          company: "TikTok Inc.",
-          company_url: "https://www.tiktok.com/en/",
-          logo_path: "tiktok_logo.png",
-          duration: "June 2023 - Present",
-          location: "San Jose, CA, USA",
+          title: "Technical Specialist, Powertrain Data",
+          company: "Lucid Motors",
+          company_url: "https://www.lucidmotors.com/",
+          logo_path: "LucidMotors_Logo.jpg",
+          duration: "Mar 2021 - Jan 2024",
+          location: "Newark, CA",
           description:
-            "Improving ads ranking models on the core TikTok product. Experience working on modeling two-tower architectures like DeepFM, Wide & deep learning, etc. Working on Large Language Models (LLM) pretraining and Large Multi-modal Model (LMM) finetuning strategies.",
+            "I established the powertrain data team from the ground up, starting as an individual contributor working with mechanical system data. Recognizing the significant potential and unmet business needs, I spearheaded the development of a dedicated data function within the department. I led both technical and non-technical efforts, building scalable data pipelines, working with big data, and developing machine learning solutions from end-to-end. I also managed projects, collaborated with the data infrastructure team, and planned team strategies. Additionally, I hired and mentored a team of 7 data engineers and scientists, successfully creating a new and impactful data function for the department.",
           color: "#000000",
         },
         {
-          title: "Associate AI Engineer",
-          company: "Legato Health Technology",
-          company_url: "https://legatohealthtech.com/",
-          logo_path: "legato_logo.png",
-          duration: "June 2020 - Aug 2021",
-          location: "Hyderabad, Telangana",
+          title: "Research Engineer II",
+          company: "Transportation Research Center",
+          company_url: "https://www.trcpg.com/",
+          logo_path: "trc.jpg",
+          duration: "Oct 2019 - Feb 2021",
+          location: "East Liberty, OH",
           description:
-            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
+            "I developed advanced data processing tools for traffic data, including setting up tests, data acquisition, and processing raw data to generate meaningful insights. I built machine learning models to mine valuable information from the data, which were used to support autonomous driving safety research. These tools and datasets were provided to the NHTSA, contributing to government-led research initiatives aimed at enhancing autonomous vehicle safety.",
           color: "#0879bf",
         },
       ],
@@ -513,7 +513,7 @@ const experience = {
           duration: "Jan 2019 - Aug 2019",
           location: "Fremont, CA",
           description:
-            "Building new features on the backend recommendation system, specifically ranking algorithms for Ads that touch hundreds of millions of people around the world. Improving online and offline content ranking algorithms by performing hard sample data replays for training steps.",
+            "During my internship, I conducted component-level tests for the Tesla Model S/X front drive unit to ensure compliance with design standards. I set up and executed the tests, collected test data, and collaborated with design engineers for analysis. Additionally, I worked on LiDAR data processing code to handle road scan data, which was used for vehicle-level simulations.",
           color: "#000000",
         },
       ],
