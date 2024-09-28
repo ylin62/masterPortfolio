@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A data-driven professional specializing in data science and engineering, skilled at analyzing complex datasets and enhancing business processes.",
   resumeLink:
-    "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
+    "https://drive.google.com/file/d/1SVT4iGZ568uDp_tT0teXmA3Spd3qTFIE/view?usp=drive_link",
   portfolio_repository: "https://github.com/ylin62/ylin62.github.io",
   githubProfile: "https://github.com/ylin62",
 };
@@ -90,9 +90,9 @@ const skills = {
       title: "Data Science & Engineering",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-        "⚡ Experience of working with Computer Vision and NLP projects",
-        "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
+        "⚡ Led the development of machine learning models and data pipelines, driving innovation through data-driven insights and solutions",
+        "⚡ Experienced in large-scale data processing, model deployment, and extracting valuable insights from complex datasets",
+        "⚡ Worked on diverse data science projects, from manufacturing anomaly detection to traffic data analysis for autonomous driving research",
       ],
       softwareSkills: [
         {
@@ -168,10 +168,10 @@ const skills = {
       title: "Cloud Infra-Architecture",
       fileName: "CloudInfraImg",
       skills: [
-        "⚡ Experience working on multiple cloud platforms",
-        "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "⚡ Deploying deep learning models on cloud to use on mobile devices",
-        "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
+        "⚡ Designed and implemented scalable cloud-based data systems, enhancing data accessibility and processing efficiency",
+        "⚡ Deployed machine learning solutions on cloud platforms, optimizing performance for large datasets",
+        "⚡ Collaborated with infrastructure teams to ensure seamless integration of cloud and data systems.",
+        "⚡ Experience working with multiple services of AWS",
       ],
       softwareSkills: [
         {
@@ -243,9 +243,9 @@ const skills = {
       title: "Automotive Engineering",
       fileName: "DesignImg",
       skills: [
-        "⚡ Designing highly attractive user interface for mobile and web applications",
-        "⚡ Customizing logo designs and building logos from scratch",
-        "⚡ Creating the flow of application functionalities to optimize user experience",
+        "⚡ Over 5 years of experience in the automotive industry, with deep expertise in powertrain systems and vehicle dynamics",
+        "⚡ Strong first-principle approach to engineering, ensuring rigorous problem-solving and system-level understanding",
+        "⚡ Broad knowledge of all aspects of automotive engineering, from design and testing to vehicle performance optimization",
       ],
       softwareSkills: [
         {
@@ -331,9 +331,9 @@ const degrees = {
       alt_name: "Indiana University Bloomington",
       duration: "2017 - 2019",
       descriptions: [
-        "⚡ I have taken varity of courses related to Artificial Intelligence which correspond to Explainable AI, Graph Machine Learning, Computer Vision etc.",
-        "⚡ Apart from this, I have also done research assistantship. As part of it, I have worked on creating new algorithms in Graph ML and Network Science.",
-        "⚡ During my time at university, I was also associated with multimedia department. As part of it, I have worked on some documentry films and interviews.",
+        "⚡ Focused on automotive engineering, vehicle dynamics, autonomous driving, signal processing, and computer vision.",
+        "⚡ Gained advanced knowledge in machine learning and programming, complemented by extensive hands-on project work.",
+        "⚡ Excelled academically, further strengthening technical and practical skills.",
       ],
       website_link: "https://cuicar.com/",
     },
@@ -344,9 +344,9 @@ const degrees = {
       alt_name: "SUNY Buffalo",
       duration: "2016 - 2017",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
+        "⚡ Studied thermal and fluid mechanics, and system modeling, with a strong emphasis on first-principle approaches.",
+        "⚡ Completed an intensive program that demanded a deep understanding of core engineering principles.",
+        "⚡ Excelled in coursework, demonstrating strong analytical and problem-solving abilities across various technical topics.",
       ],
       website_link: "https://www.buffalo.edu/",
     },
@@ -475,7 +475,7 @@ const experience = {
   header_image_path: "experience.svg",
   sections: [
     {
-      title: "Work",
+      title: "Fulltime",
       work: true,
       experiences: [
         {
@@ -586,7 +586,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "Personal projects dedicated to honing existing skills while exploring and mastering new ones.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -626,32 +626,32 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "IMG_6391.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "You can use the link below to see my resume. Email me if you would like to connect. Have a great day! 🍻",
   },
-  blogSection: {
-    title: "Blogs",
-    subtitle:
-      "I like to document some of my experiences in professional career journey as well as some technical knowledge sharing.",
-    link: "https://blogs.ashutoshhathidara.com/",
-    avatar_image_path: "blogs_image.svg",
-  },
-  addressSection: {
-    title: "Address",
-    subtitle: "Saratoga Ave, San Jose, CA, USA 95129",
-    locality: "San Jose",
-    country: "USA",
-    region: "California",
-    postalCode: "95129",
-    streetAddress: "Saratoga Avenue",
-    avatar_image_path: "address_image.svg",
-    location_map_link: "https://maps.app.goo.gl/NvYZqa34Wye4tpS17",
-  },
-  phoneSection: {
-    title: "",
-    subtitle: "",
-  },
+  // blogSection: {
+  //   title: "Blogs",
+  //   subtitle:
+  //     "I like to document some of my experiences in professional career journey as well as some technical knowledge sharing.",
+  //   link: "https://blogs.ashutoshhathidara.com/",
+  //   avatar_image_path: "blogs_image.svg",
+  // },
+  // addressSection: {
+  //   title: "Address",
+  //   subtitle: "Saratoga Ave, San Jose, CA, USA 95129",
+  //   locality: "San Jose",
+  //   country: "USA",
+  //   region: "California",
+  //   postalCode: "95129",
+  //   streetAddress: "Saratoga Avenue",
+  //   avatar_image_path: "address_image.svg",
+  //   location_map_link: "https://maps.app.goo.gl/NvYZqa34Wye4tpS17",
+  // },
+  // phoneSection: {
+  //   title: "",
+  //   subtitle: "",
+  // },
 };
 
 export {
