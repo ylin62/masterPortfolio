@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A data-driven professional specializing in data science and engineering, skilled at analyzing complex datasets and enhancing business processes.",
   resumeLink:
-    "https://drive.google.com/file/d/1SVT4iGZ568uDp_tT0teXmA3Spd3qTFIE/view?usp=drive_link",
+    "https://drive.google.com/file/d/1CiQC0KjROwQqhlWWeoEgrEtdCuekTO3v/view?usp=drive_link",
   portfolio_repository: "https://github.com/ylin62/ylin62.github.io",
   githubProfile: "https://github.com/ylin62",
 };
