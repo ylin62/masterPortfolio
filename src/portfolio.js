@@ -479,6 +479,17 @@ const experience = {
       work: true,
       experiences: [
         {
+          title: "Data Engineer",
+          company: "Meta",
+          company_url: "https://www.meta.com/",
+          logo_path: "masterportfolio-banner-dark.png",
+          duration: "May 2025 - Present",
+          location: "Menlo Park, CA",
+          description:
+            "As a Data Engineer at Meta, I am responsible for designing, building, and maintaining scalable data pipelines and infrastructure to support data-driven decision-making across the organization. I collaborate with cross-functional teams to ensure data quality, reliability, and accessibility, enabling advanced analytics and machine learning initiatives. My role involves working with large datasets, optimizing data workflows, and implementing best practices for data governance and security.",
+          color: "#000000",
+        },
+        {
           title: "Technical Specialist, Powertrain Data",
           company: "Lucid Motors",
           company_url: "https://www.lucidmotors.com/",
